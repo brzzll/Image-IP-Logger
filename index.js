@@ -18,7 +18,7 @@ console.log(chalk.magentaBright(`
      ▒ ░░      ░     ░   ▒   ░ ░   ░    ░       ▒ ░░░            ░ ░   ░ ░ ░ ▒  ░ ░   ░ ░ ░   ░    ░     ░░   ░ 
      ░         ░         ░  ░      ░    ░  ░    ░                  ░  ░    ░ ░        ░       ░    ░  ░   ░     
                                                                                                            
-    ~ by ZenX$Team - ${chalk.white(`brzzl`)}
+    ~ by ZenX$Team - ${chalk.white(`.gg/kEB3PCPkzc`)}
     `));
 async function conectar_serveo() {
     const xd = exec(`ssh -R ${port}:localhost:${port} serveo.net`);
